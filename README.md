@@ -3,7 +3,9 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristofag&label=Profile%20views&color=0e75b6&style=flat" alt="cristofag" /> </p>-->
 
-- 🔭 I’m currently having a bachelor degree on **Computer Science**
+- 🔭 I’m currently having a bachelor degree in **Computer Science**
+
+- 🔭 I’m currently studying at the **Autonomous Metropolitan University**
 
 - 🌱 I’m currently learning **React, Docker, VueJS, REST**
 
