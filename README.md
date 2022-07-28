@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently having a bachelor degree in **Computer Science**
 
-- 🔭 I’m currently studying at the **Autonomous Metropolitan University**
+- 🔭 I’m currently studying at the **Universidad Autónoma Metropolitana**
 
-- 🌱 I’m currently learning **React, Docker, VueJS, REST**
+- 🌱 I’m currently learning **React, Docker, Angular, REST**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
