@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at the **Universidad Autónoma Metropolitana**
 
-- 🌱 I’m currently learning **React, Docker, Angular, REST**
+- 🌱 I’m currently learning **Angular, REST**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
